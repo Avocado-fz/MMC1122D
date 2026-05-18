@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:pink}
+
+#logo {float:left;}
+#icon {float:right;}
+
+#navigation {clear:both;}
+#navigation a:hover {color:red;}
+#navigation a{color:black;text-decoration-line:none;}
+#navigation a:visited {color:black;}
+
+#header h1 {color:orange;border-bottom:solid black 1px;}
+
+#header img {border:solid black 1px;padding:10px; width:250px}
+#headerabc {font-family:Arial;float:left;}
+
+#news h3 {color:orange}
+#news {font-family:Arial;float:right; width:250px}
+
+#footer{clear:both;padding:1px 330px; margin:10px; border-top:solid black 1px;}
+
+#kotak{width:900px; background-color:white;margin:0px auto;}
+#kotak2{width:950px; background-color:white;margin:0px auto;}
+#welcome{border-top:solid black 1px;color:orange}
+
+#navigation{clear:both;border-top:solid black 2px;border-bottom:solid black 1px;padding:10px;}
+#navigation{padding:15px}
+#navigation a {margin:10px;}
+
+#box1 {float:left;width:250px;background-color:darkgray;margin-right:30px;border-top:solid #310304 20px;margin-left:45px;}
+#box2 {float:left;width:250px;background-color:darkgray;margin-right:30px;border-top:solid #310258 20px;margin-left:0px}
+#box3 {float:left;width:250px;background-color:darkgray;margin-right:30px;border-top:solid #388938 20px;margin-left:0px;margin-bottom:15px}
+
+<link href="css/lightbox.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+
